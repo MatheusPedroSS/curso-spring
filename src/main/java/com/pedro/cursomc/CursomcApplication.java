@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class CursomcApplication {
 
-	//Aprendendo a trabalhar com branch's e simulando conflito de Merge.
+	//simulando conflito de Merge.
 
 	public static void main(String[] args) {
 		SpringApplication.run(CursomcApplication.class, args);
