@@ -9,6 +9,7 @@ public class CursomcApplication {
 	//simulando conflito de Merge.
 
 	public static void main(String[] args) {
+		String merge = "teste";
 		SpringApplication.run(CursomcApplication.class, args);
 	}
 
