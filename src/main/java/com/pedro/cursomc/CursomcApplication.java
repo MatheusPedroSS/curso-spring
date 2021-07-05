@@ -9,6 +9,7 @@ public class CursomcApplication {
 	//Aprendendo a trabalhar com branch's
 
 	public static void main(String[] args) {
+		String merge = "teste";
 		SpringApplication.run(CursomcApplication.class, args);
 	}
 
