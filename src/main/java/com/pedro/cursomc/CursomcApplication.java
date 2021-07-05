@@ -6,7 +6,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class CursomcApplication {
 
+	//simulando conflito de Merge.
+
 	public static void main(String[] args) {
+		String merge = "teste";
+		boolean merge2 = false;
 		SpringApplication.run(CursomcApplication.class, args);
 	}
 
