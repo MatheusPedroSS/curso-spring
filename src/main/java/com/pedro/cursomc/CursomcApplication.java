@@ -10,6 +10,7 @@ public class CursomcApplication {
 
 	public static void main(String[] args) {
 		String merge = "teste";
+		boolean merge2 = false;
 		SpringApplication.run(CursomcApplication.class, args);
 	}
 
